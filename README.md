@@ -47,7 +47,7 @@ Android animation demo using:
 ---
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayurkushwah-creator&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mayurkushwah-creator&show_icons=true&theme=tokyonight)
 
 ---
 
