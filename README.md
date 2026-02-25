@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge)
