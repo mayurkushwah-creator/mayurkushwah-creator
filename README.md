@@ -46,7 +46,7 @@ Android animation demo using:
 
 ---
 
-## 🔥 Contribution Streak
+## Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mayurkushwah-creator&theme=tokyonight)
 
