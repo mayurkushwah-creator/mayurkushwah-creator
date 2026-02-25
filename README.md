@@ -46,8 +46,18 @@ Android animation demo using:
 
 ---
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mayurkushwah-creator&show_icons=true&theme=tokyonight)
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mayurkushwah-creator&theme=tokyonight)
+
+---
+
+## GitHub Activity
+
+- Public Repositories  
+- Contributions Graph  
+- Commit History  
+- Project Activity  
 
 ---
 
