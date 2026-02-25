@@ -46,8 +46,8 @@ Android animation demo using:
 
 ---
 
-## GitHub Stats
-![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayurkushwah-creator&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayurkushwah-creator&show_icons=true&count_private=true&theme=tokyonight)
 
 ---
 
